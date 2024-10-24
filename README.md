@@ -67,4 +67,6 @@ O assistente usa as seguintes informações fornecidas pelo usuário para gerar 
 
 ---
 
+## Prompt de Resposta Proposto
+
 Este plano oferece uma abordagem prática e motivadora, com instruções claras sobre evolução e formas de medir resultados, garantindo aderência ao longo do tempo.
