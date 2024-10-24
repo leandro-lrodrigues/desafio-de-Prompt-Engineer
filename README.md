@@ -2,6 +2,7 @@
 
 <p align="center">
     <img width="300px" src="https://via.placeholder.com/300">
+    <img width="300px" src=".github/assets/treino.png">
 
 </p>
 
