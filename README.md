@@ -1,7 +1,6 @@
 # 🏋️ Assistente Personal Trainer Inteligente
 
 <p align="center">
-    <img width="300px" src="https://via.placeholder.com/300">
     <img width="300px" src="treino.png">
 
 </p>
