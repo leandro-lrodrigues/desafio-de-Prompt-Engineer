@@ -2,7 +2,7 @@
 
 <p align="center">
     <img width="300px" src="https://via.placeholder.com/300">
-<a href="https://www.flaticon.com/br/icones-gratis/dumbell" title="dumbell ícones">Dumbell ícones criados por xnimrodx - Flaticon</a>
+
 </p>
 
 <p align="center">
