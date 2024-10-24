@@ -62,7 +62,7 @@ O assistente usa as seguintes informações fornecidas pelo usuário para gerar 
 ## 📖 Materiais de Apoio
 
 - [Guia para Engenharia de Prompts](https://textcortex.com/pt/post/prompt-engineering-guide)  
-- [Práticas com Assistentes Virtuais]([https://exemplo.com/praticas](https://fvivas.com/assistentes-virtuais-explicados/))
+- [Práticas com Assistentes Virtuais]([https://exemplo.com/praticas](https://fvivas.com/assistentes-virtuais-explicados/)
 
 ---
 
